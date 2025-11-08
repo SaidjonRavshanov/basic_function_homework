@@ -4,3 +4,4 @@
 # 2. Return the integer value 0
 def return_zero():
     return 0
+print(return_zero())
